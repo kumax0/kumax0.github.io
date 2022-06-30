@@ -1,2 +1,2 @@
 # kumax0.github.io
-Dev-Simplified
+Frontend Dev-Simplified
